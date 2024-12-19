@@ -367,11 +367,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Steven\\source\\repos\\Boggle_VF\\Boggle_VF.csproj",
+      "projectUniqueName": "C:\\Users\\Steven\\Documents\\GitHub\\BoggleVF\\Boggle_VF\\Boggle_VF.csproj",
       "projectName": "Boggle_VF",
-      "projectPath": "C:\\Users\\Steven\\source\\repos\\Boggle_VF\\Boggle_VF.csproj",
+      "projectPath": "C:\\Users\\Steven\\Documents\\GitHub\\BoggleVF\\Boggle_VF\\Boggle_VF.csproj",
       "packagesPath": "C:\\Users\\Steven\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Steven\\source\\repos\\Boggle_VF\\obj\\",
+      "outputPath": "C:\\Users\\Steven\\Documents\\GitHub\\BoggleVF\\Boggle_VF\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4G5+e+1UkjaJ3vi24NCx58wInAHEPb7A0L4ug8/bi+7NLvQHFi8K208SB4cugc9IBWj2XbfGjayXKHSDDQZnhg==",
+  "dgSpecHash": "+P/TXA+1sf3MSMlJUdFaxGeI9cSCZaxKGZz5xu7VK9lF40lNRoNY9pBDdqwjKylfgIqJBxqrhQBrMkHYccX4FQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Steven\\source\\repos\\Boggle_VF\\Boggle_VF.csproj",
+  "projectFilePath": "C:\\Users\\Steven\\Documents\\GitHub\\BoggleVF\\Boggle_VF\\Boggle_VF.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Steven\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Steven\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
