@@ -60,7 +60,7 @@ namespace Boggle_VF
                         }
 
                         Random aleatoire = new Random();
-                        float facteurAmplification = 6.0f; 
+                        float facteurAmplification = 5.0f; 
                         foreach (var mot in this.Mots_Score)
                         {
                             string texte = mot.Key;

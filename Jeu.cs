@@ -48,9 +48,9 @@ namespace Boggle_VF
         }
         #endregion
 
-        public Jeu(Dictionnaire dico1, Dictionary<Joueur, int> tableau_score)
+        public Jeu(Dictionnaire dico, Dictionary<Joueur, int> tableau_score)
         {
-            this.Dico = dico1;
+            this.Dico = dico;
             this.Tableau_score = tableau_score;
         }
 
@@ -245,7 +245,7 @@ namespace Boggle_VF
         /// <summary>
         /// Génère le nuage de mots d'un joueur à partir du dictionnaire de mots trouvé (Key) et du scrore (Value) obtenue grace à ce mot
         /// </summary>
-        public void Nuage_de_Mots()
+        public void NuageMots()
         {
             for (int i = 0; i < this.Joueurs.Length; i++) 
             {
@@ -276,7 +276,7 @@ namespace Boggle_VF
         /// <summary>
         /// Imbrique toutes les classes et leur fonctions ensemble ce qui permet d'executer tout le jeu
         /// </summary>
-        public void Lancerlejeu()
+        public void LancerJeu()
         {
             bool rejouer = true;
             while (rejouer == true)
@@ -392,7 +392,7 @@ namespace Boggle_VF
                     Console.WriteLine(this.Joueurs[i].ToString() + "\n");
                 }
                 Console.WriteLine();
-                this.Nuage_de_Mots();
+                this.NuageMots();
                 Console.WriteLine();
                 Thread.Sleep(5500);
                 this.AfficherNuage();

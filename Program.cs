@@ -15,7 +15,7 @@ namespace Boggle_VF
             Dictionnaire dico1 = new Dictionnaire();
             Dictionary<Joueur, int> tableauscore1 = new Dictionary<Joueur, int>();
             Jeu jeu1 = new Jeu(dico1, tableauscore1);
-            jeu1.Lancerlejeu();
+            jeu1.LancerJeu();
         }
     }
 }
