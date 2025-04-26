@@ -5,7 +5,7 @@ Boogle est une adaptation numérique du jeu de lettres Boggle, entièrement dév
 ## Fonctionnalités principales
 
 - **Programmation orientée objet** :  
-  Le projet est structuré autour de plusieurs classes principales (`Joueur`, `Dé`, `Plateau`, `Dictionnaire`, `Jeu`, `NuageDeMot`), chacune responsable d'un aspect du jeu, pour assurer une architecture claire et évolutive.
+  Le projet est structuré autour de plusieurs classes principales (`Joueur`, `Dé`, `Plateau`, `Dictionnaire`, `Jeu`, `NuageDeMot`), chacune responsable d'un aspect du jeu, pour assurer une architecture claire.
 - **Validation et recherche de mots** :  
   Des algorithmes récursifs vérifient la validité des mots saisis par le joueur en explorant le plateau de lettres. Plusieurs méthodes de recherche ont été étudiées et comparées pour optimiser l'efficacité, notamment via des structures de données adaptées (comme le trie).
 - **Nuage de mots personnalisé** :  
